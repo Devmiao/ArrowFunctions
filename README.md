@@ -1,2 +1,2 @@
-# ArrowFunctions
+# JavascriptBasics
 Basics of JavaScript
